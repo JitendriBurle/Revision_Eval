@@ -20,5 +20,5 @@ function setInterval(callback, delay){
             isCleared = true;
             clearTimeout(timerId)
         }
-    };
+    }
 }
