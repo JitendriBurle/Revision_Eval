@@ -14,5 +14,5 @@ function sequentialTaskRunner(tasks, delay) {
     } catch (err) {
       reject(err);
     }
-  })
+  });
 }
