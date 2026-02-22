@@ -12,5 +12,5 @@ function buildRateLimiter(limit, interval) {
         } else {
             return "Blocked";
         }
-    };
+    }
 }
