@@ -22,5 +22,5 @@ function countdownTimer(seconds, onTick, onComplete) {
     resume() {
       timerId = setTimeout(tick, 1000);
     }
-  };
+  }
 }
